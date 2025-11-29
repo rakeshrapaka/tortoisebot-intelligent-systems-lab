@@ -27,8 +27,6 @@ Each `weekXX_*` folder contains:
 - `week02_ros2_nodes_basics/` – ROS2 publisher/subscriber fundamentals
 - `week03_camera_perception_pipeline/` – Camera + OpenCV + ROS2 perception pipeline
 - ...
-- `week11_rpa_robot_integration/` – UiPath + ROS2 proof-of-concept for orchestrated robotics
-- `capstone_autonomous_robot_system/` – Full-stack autonomous robot: perception, navigation, edge AI, and orchestration
 
 ## Technology Stack
 
