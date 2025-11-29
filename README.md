@@ -34,7 +34,6 @@ Each `weekXX_*` folder contains:
 - **Compute**: Raspberry Pi 4
 - **Perception**: Raspberry Pi Camera, LiDAR, IMU
 - **AI/ML**: Python, OpenCV, PyTorch/TensorFlow (for edge AI)
-- **Automation**: UiPath (for robot workflow orchestration)
 - **Languages**: Python, (C++ optional)
 - **Tools**: Git, VS Code, SSH, Linux
 
