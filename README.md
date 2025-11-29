@@ -17,11 +17,11 @@ Each `weekXX_*` folder contains:
 - **Architecture and design**
 - **ROS2 / Python code**
 - **How to run**
-- **What I learned (from an architect's perspective)**
+- **Learn (from an architect's perspective)**
 
 ## Repository Structure
 
-- `docs/` – Architecture diagrams, technical notes, and the 90-day roadmap
+- `docs/` – Architecture diagrams, technical notes, and the roadmap
 - `hardware/` – Bill of materials, wiring diagrams, and mechanical assembly notes
 - `week01_modular_motor_system/` – GPIO-based motor control and modular movement architecture
 - `week02_ros2_nodes_basics/` – ROS2 publisher/subscriber fundamentals
@@ -40,9 +40,4 @@ Each `weekXX_*` folder contains:
 - **Languages**: Python, (C++ optional)
 - **Tools**: Git, VS Code, SSH, Linux
 
-## Goals
-
-- Demonstrate the ability to **design and implement end-to-end intelligent robotic systems**
-- Bridge **AI/ML, Computer Vision, Robotics, and Intelligent Automation**
-- Think and communicate like a **Solution Architect**: from requirements to architecture to implementation
 
